@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on stove
+- [ ] Put pot on stove
+- [ ] put water in pot
